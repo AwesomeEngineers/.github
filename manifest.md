@@ -24,13 +24,13 @@ A group of enthusiast engineers with endless motivation to learn, share and enjo
   - It's recommended to use diagrams to clarify flows, architectures and definitions.
 
 - Tools
-  - Planifications is done using Github Projects.
+  - Planifications are done using Github Projects.
   - The SCM provider is Github.
   - All new ideas, tasks, features and bugs are managed using Github issues.
   - CI using Github actions (may change if integrated in the platform infrastructure)
-  - The communication provider is Discord because of channels organization by topics, voice channels, screen sharing and also have API to develop bots.
+  - The communication provider is Discord because of channels organized by topics, voice channels, screen sharing and also have API to develop bots.
 
-- Worflow
+- Workflow
   - All ideas and proposals are started by opening an issue in the main repository. In that issue every member can discuss and expose opinions, after that, if the idea is "accepted", should be defined: goal, next steps, opening issues in the planification board to start working on the idea.
   - Repositories will follow the trunk model with `main` as the long term branch. The `main` branch will will be the base of the feature and bug branches.
   - Versions will be defined through tags which will be associated to a release worflow in Github Actions.
