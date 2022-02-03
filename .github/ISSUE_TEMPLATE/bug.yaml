@@ -1,0 +1,32 @@
+---
+name: Report a bug 🌪️
+description: Submit a bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Description
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Describe the bug
+      description: A clear description of what the bug is.
+  - type: textarea
+    validations:
+      required: false
+    attributes:
+      label: Steps to reproduce
+      description: |
+        Steps to reproduce the problem.
+      placeholder: |
+        For example:
+        1. Install this version of the application
+        2. Run command '...'
+        3. See error
+  - type: textarea
+    validations:
+      required: false
+    attributes:
+      label: Describe the solution
+      description: If you know the solution, describe it.

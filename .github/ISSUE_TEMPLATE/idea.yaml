@@ -1,0 +1,15 @@
+---
+name: New idea 💡!
+description: Submit a new idea!
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Description
+        Describe your idea including all the requirements
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Describe the idea
+      description: A clear description of what the idea is, including if possible a diagram explaining it.
