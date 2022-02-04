@@ -2,10 +2,6 @@
 name: Report a bug 🌪️
 description: Submit a bug
 body:
-  - type: markdown
-    attributes:
-      value: |
-        ## Description
   - type: textarea
     validations:
       required: true
