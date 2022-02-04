@@ -13,3 +13,9 @@ body:
     attributes:
       label: Describe the idea
       description: A clear description of what the idea is, including if possible a diagram explaining it.
+  - type: textarea
+    validations:
+      required: true
+    attributes:
+      label: Technologies involved/required
+      description: Technologies involved in the creation of this idea
