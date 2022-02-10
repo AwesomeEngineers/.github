@@ -1,6 +1,5 @@
-# Awesome Engineers
+# Special repository
 
-This is the main repository of the Awesome Engineers where you will find:
+This repository is used to share files across all public repositories in the organization.
 
-- [Manifest](./manifest.md)
-- [Ideas and technologies](./ideas.md)
+[GitHub Official page](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file)
